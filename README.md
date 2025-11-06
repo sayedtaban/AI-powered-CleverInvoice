@@ -151,13 +151,5 @@ The Invoice Management System leverages Google's Generative AI (Gemini) to autom
 - Calculation of derived values (e.g., unit prices, total amounts)
 
 This AI-powered extraction significantly reduces manual data entry, improves accuracy, and enables rapid processing of large volumes of invoice data.
-
-### Development Insights
-
-To gain a deeper understanding of the Gemini AI integration and its capabilities, a separate application was developed:
-
-- **Project**: [Gemini Document Processor](https://github.com/shivankkunwar/Gemini-Document-processor)
-- **Live Demo**: [https://gemini-document-processor.vercel.app/](https://gemini-document-processor.vercel.app/)
-
-This standalone application served as a learning tool and prototype, allowing for experimentation with various document types and AI prompts. The insights gained from this project directly informed the implementation of the AI extraction feature in the main Invoice Management System.
+insights gained from this project directly informed the implementation of the AI extraction feature in the main Invoice Management System.
 
